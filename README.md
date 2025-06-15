@@ -73,5 +73,5 @@
 
 ## 📬 Контакты
 
-- **Email:** [slygrev@gmail.com](mailto:ваш@email.com)  
+- **Email:** [slygerev@gmail.com](mailto:ваш@email.com)  
 - **Telegram:** [@Slygerev](https://t.me/ваш_телеграм)  
